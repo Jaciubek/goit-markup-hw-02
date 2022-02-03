@@ -113,11 +113,6 @@ body {
 .modal-btn {
   background-color: var(--main-color);
 }
-.modal-btn:hover,
-.modal-btn:focus {
-  background-color: #ffffff;
-  color: var(--third-color);
-}
 .third-header-hero {
   font-weight: 700;
   font-size: 14px;
